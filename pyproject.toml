@@ -1,0 +1,14 @@
+[project]
+name = "daves_nodes"
+description = "Nodes that I needed but couldnt find, so ended up making."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/GamingDaveUk/daves_nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "daves_nodes"
+Icon = ""
